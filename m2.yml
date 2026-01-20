@@ -3,4 +3,4 @@ server:
 
 spring:
   application:
-    name: m2
+    name: microservice2
